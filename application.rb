@@ -7,4 +7,3 @@ class Application
   end
 
 end
-
